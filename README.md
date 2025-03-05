@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Welcome, My name is Battogtokh. I'm an IT engineer with experience helping businesses use modern technologies . I'm currently pursuing my second Bachelor's degree from the University of London to refresh my foundational knowledge and stay up-to-date with the latest trends in Machine Learning and AI. In my free time, I'm honing my skills in Web Development using React JS and FastAPI.
+Welcome, My name is Battogtokh. I'm an IT expert. In my free time, I'm honing my skills in Web Development using React JS and FastAPI.
 
-- 📫 How to reach me: [email me](mailto:toogii@gmail.com)
+- 📫 How to reach me: [click here to email](mailto:toogii@gmail.com)
   
 <!--
 **itoogii/itoogii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
