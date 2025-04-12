@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome, My name is Battogtokh. I'm an IT expert. In my free time, I'm honing my skills in Web Development using React JS and FastAPI.
+Welcome, My name is Battogtokh. I'm an IT Engineer. In my free time, I'm honing my skills in Web Development.
 
 - 📫 How to reach me: [click here to email](mailto:toogii@gmail.com)
   
